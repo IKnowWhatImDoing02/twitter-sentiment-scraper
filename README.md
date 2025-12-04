@@ -1,0 +1,3 @@
+
+The idea was to use twitter posts in order to get sentiment on specefic stocks, run them through a personally trained vesrion of the CardiffNLP Twitter RoBERTa sentiment model and then have it score the general opinion on the stock. We would then take this score and make trades algorithmically. 
+Unforntunattly the cost of the twiiter api was higher than expected so I instead spent most of my time trying and succeeeding occasionaly at scraping twitters false front end nitter. This involved brute forcing the front end with proxies that also would have costed money after some time which is where the journey ended.
